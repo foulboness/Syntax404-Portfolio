@@ -54,7 +54,7 @@ Syntax404 Portfolio is a personal website designed to resemble a desktop workspa
 Clone the repository:
 
 ```bash
-git clone https://github.com/foulboness/terminal-portfolio.git
+git clone https://github.com/foulboness/syntax404-portfolio.git
 ```
 
 Navigate into the project:
