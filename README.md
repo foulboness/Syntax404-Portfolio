@@ -35,20 +35,15 @@ Syntax404 Portfolio is a personal website designed to resemble a desktop workspa
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 .
 ├── index.html
 ├── projects.html
 ├── links.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── images/
-│   ├── profile.png
-│   └── ...
+├── style.css
+├── script.js
 └── README.md
 ```
 
