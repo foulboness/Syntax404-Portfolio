@@ -27,7 +27,7 @@ Syntax404 Portfolio is a personal website designed to resemble a desktop workspa
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 * HTML5
 * CSS3
@@ -67,32 +67,7 @@ Open `index.html` in your browser, or run it using your preferred local developm
 
 ---
 
-## 📸 Preview
-
-The portfolio includes multiple desktop-inspired windows, including:
-
-* 👤 Profile
-* 💻 Developer Status
-* 📂 Projects
-* 🌐 Developer Hub
-* 📡 Social Links
-* 📄 Resume / Contact
-
----
-
-## 🎯 Future Improvements
-
-* Blog section
-* Dark/Light theme switcher
-* Project search
-* Animations & window transitions
-* Terminal command palette
-* Interactive file explorer
-* Live GitHub statistics
-
----
-
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.
 
