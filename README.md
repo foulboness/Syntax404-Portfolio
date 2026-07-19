@@ -60,7 +60,7 @@ git clone https://github.com/foulboness/syntax404-portfolio.git
 Navigate into the project:
 
 ```bash
-cd terminal-portfolio
+cd syntax404-portfolio
 ```
 
 Open `index.html` in your browser, or run it using your preferred local development server.
