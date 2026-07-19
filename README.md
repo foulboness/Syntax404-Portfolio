@@ -15,17 +15,15 @@ Syntax404 Portfolio is a personal website designed to resemble a desktop workspa
 
 ---
 
-## ✨ Features
+## Features
 
-* 🖥️ Terminal-inspired interface
-* 🪟 Desktop-style window layout
-* 📱 Fully responsive design
-* ⚡ Lightweight and fast
-* 🎨 Custom purple terminal theme
-* 💼 Project showcase
-* 📡 Social & contact links
-* ⌨️ Animated terminal cursor
-* 🌙 Clean developer aesthetic
+* Terminal-inspired interface
+* Desktop-style window layout
+* Fully responsive design
+* Lightweight and fast
+* Custom purple terminal theme
+* Project showcase
+* Social & contact links
 
 ---
 
