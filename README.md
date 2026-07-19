@@ -1,6 +1,6 @@
-# 💻 Syntax404 Portfolio
+# Syntax404 Portfolio
 
-A terminal-inspired developer portfolio built with **HTML, CSS, and JavaScript**. Inspired by Linux desktop environments and classic terminal interfaces, this portfolio presents projects, skills, and contact information through a clean, interactive workspace.
+A terminal-inspired developer portfolio. Inspired by Linux desktop environments and classic terminal interfaces, this portfolio presents projects, skills, and contact information through a clean, interactive workspace.
 
 ![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
@@ -9,11 +9,9 @@ A terminal-inspired developer portfolio built with **HTML, CSS, and JavaScript**
 
 ---
 
-## 📖 About
+## About
 
 Syntax404 Portfolio is a personal website designed to resemble a desktop workspace and terminal environment. Instead of a traditional portfolio layout, it uses movable-looking windows, terminal prompts, and developer-inspired UI elements to create a unique browsing experience.
-
-The project was built from scratch without any frontend frameworks, focusing on semantic HTML, modern CSS, and lightweight JavaScript.
 
 ---
 
